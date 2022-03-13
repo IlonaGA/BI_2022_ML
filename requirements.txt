@@ -3,3 +3,9 @@ matplotlib
 pandas
 sklearn
 seaborn
+random
+xgboost
+lightgbm
+catboost
+scipy
+itertools
