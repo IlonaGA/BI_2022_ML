@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+sklearn
+seaborn
+warnings
+random
+os
+IPython
